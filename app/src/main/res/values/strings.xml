@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DealOrNoDeal_Mobile_Game</string>
+    <string name="deal">Deal</string>
+    <string name="no_deal">No Deal</string>
+    <string name="reset">Reset</string>
+    <string name="choose_case">Choose Case</string>
+    <string name="choose_case_number">"Choose 4 Cases"</string>
+</resources>
