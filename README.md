@@ -1,0 +1,1 @@
+![Alt text]([image link](https://raw.githubusercontent.com/SahandNamvar/Mobile-App-Dev-Deal-NoDeal-Game/main/Deal%20or%20No%20Deal%20Game%20UI.png)https://raw.githubusercontent.com/SahandNamvar/Mobile-App-Dev-Deal-NoDeal-Game/main/Deal%20or%20No%20Deal%20Game%20UI.png)
